@@ -14,5 +14,5 @@ Then in your `build.zig`:
 
 ```zig
 const dep = b.dependency("wlroots", .{ .target = target, .optimize = optimize });
-exe.linkLibrary(dep.artifact("wlroots-0.18"));
+exe.linkLibrary(dep.artifact("wlroots"));
 ```
