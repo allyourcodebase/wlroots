@@ -53,8 +53,8 @@
             .lazy = true,
         },
         .util = .{
-            .url = "https://git.sr.ht/~phugen/util/archive/v0.1.8.tar.gz",
-            .hash = "util-0.1.7-icrIBXYcAQBu5j9iMsyAhJnW7wptIYkKK9pEwvmmiAfW",
+            .url = "https://git.sr.ht/~phugen/util/archive/v0.1.9.tar.gz",
+            .hash = "util-0.1.7-icrIBU4cAQDnc7pooGY23ZhPgWkS4bgty4xX-72-4knr",
         },
     },
     .minimum_zig_version = "0.16.0-dev.2535+b5bd49460",
